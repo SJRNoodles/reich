@@ -1,2 +1,2 @@
 # reich
-build an empire
+web game where you build an empire
